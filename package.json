@@ -1,0 +1,30 @@
+{
+  "name": "nodejs-organize-pictures",
+  "version": "1.0.0",
+  "description": "Organize picture in folders as year/month/day",
+  "main": "start.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://sebastiencv@github.com/sebastiencv/nodejs-organize-pictures.git"
+  },
+  "keywords": [
+    "pictures",
+    "jpg",
+    "organize",
+    "exif"
+  ],
+  "author": "sebastien cvilic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sebastiencv/nodejs-organize-pictures/issues"
+  },
+  "homepage": "https://github.com/sebastiencv/nodejs-organize-pictures",
+  "dependencies": {
+    "coffee-script": "*",
+    "mkpath": "^0.1.0",
+    "walk": "^2.3.9"
+  }
+}
