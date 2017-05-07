@@ -4,6 +4,7 @@
   "description": "Organize picture in folders as year/month/day",
   "main": "start.js",
   "scripts": {
+    "start": "node start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
