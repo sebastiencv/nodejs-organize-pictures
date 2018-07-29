@@ -1,2 +1,1 @@
-require('coffee-script/register');
-require('./lib/process_files');
+require('./lib/process_files')

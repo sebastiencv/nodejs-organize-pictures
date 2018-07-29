@@ -1,11 +1,16 @@
 # nodejs-organize-pictures
-Organize pictures into folders : from any folder to year/month/day
+Organize pictures into folders : 
+- from any folder to year/month/day
+- avoid duplicates
 
 
-# Start via:
+# Start
 
-node start
+> node start
 
 # requirment
 
-exiftool
+exiftool for Mac via:
+
+> brew update
+> brew install exiftool
